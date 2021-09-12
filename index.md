@@ -19,12 +19,12 @@
 ## Publications
 + <font face="微软雅黑">Contrastive Context-Aware Learning for 3D High-Fidelity Mask Face Presentation Attack Detection.</font>  
 Ajian Liu, Chenxu Zhao, Zitong Yu, Jun Wan, Anyang Su, **Xing Liu**, Zichang Tan, Sergio Escalera, Junliang Xing, Yanyan Liang, Guodong Guo, Zhen Lei, Stan Z Li, Du Zhang  
-AAAI Conference on Artificial Intelligence(**AAAI**), 2022, under review.  
+AAAI Conference on Artificial Intelligence(AAAI), 2022, under review.  
 [[paper]](https://arxiv.org/abs/2104.06148), code
 
 + <font face="微软雅黑">3D High-Fidelity Mask Face Presentation Attack Detection Challenge.</font>  
-<font size=3>Ajian Liu, Chenxu Zhao, Zitong Yu, Anyang Su, **Xing Liu**, Zijian Kong, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Guodong Guo</font>  
-International Conference on Computer Vision(**ICCV**) workshop, 2021.    
+Ajian Liu, Chenxu Zhao, Zitong Yu, Anyang Su, **Xing Liu**, Zijian Kong, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Guodong Guo
+International Conference on Computer Vision(ICCV) workshop, 2021.    
 [[paper]](https://arxiv.org/abs/2108.06968), code  
 
 + <font face="微软雅黑">Temporal variations of runoff and sediment load in the upper Yellow River, China.</font>  
