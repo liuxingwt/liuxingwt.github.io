@@ -40,4 +40,4 @@ Journal of Hydrology, 2019.
 
 ## Honors & Awards
 + 2017.12  Outstanding Second-class Scholarship, Tsinghua University.
-+ 2014.12  Outstating student leaders, Wuhan University.
++ 2014.12  Outstanding Student Leaders, Wuhan University.
