@@ -1,12 +1,12 @@
 ## Xing Liu 刘星
-&emsp; I'm an engineer at Academy of Science, Mininglamp Technology, Beijing. My research interests are in Computer Vision and Machine Learning. Before that, I studied the realtionship and variation tendency of runoff and sediment transportation in the Yellow River, China. 
+&emsp; I'm an engineer at [Mininglamp Academy of Sciences](http://mas.mininglamp.com/), [Mininglamp Technology](https://www.mininglamp.com/), Beijing. My research interests are in Computer Vision and Machine Learning. Before that, I studied the realtionship and variation tendency of runoff and sediment transportation in the Yellow River, China. 
 
 **google scholar :** &emsp; &nbsp; [Xing Liu](https://scholar.google.com/citations?user=hR5PUJ0AAAAJ)  
 **github homepage:** &nbsp; [liuxingwt](https://github.com/liuxingwt)  
 **email address :** &emsp; &nbsp; liuxing9406@163.com; &nbsp; liuxing16@tsinghua.org.cn  
 
 ## Education & Experience
-+ **2019.07-now**   &emsp;   &emsp;   Engineer, Academy of Science, Mininlamp Technology, Beijing, China.
++ **2019.07-now**   &emsp;   &emsp;   Engineer, Mininglamp Academy of Sciences, Mininlamp Technology, Beijing, China.
 + **2016.09-2019.07** &emsp;  Master's Degree, Department of Hydraulic Engineering, Tsinghua University. Beijing, China. (advisor: [Mengzhen Xu](http://www.civil.tsinghua.edu.cn/he/essay/342/883.html))
 + **2011.09-2015.07** &emsp;  Bachelor's Degree, School of Water Resource and Hydropower Engineering, Wuhan University, Wuhan, China.
 
