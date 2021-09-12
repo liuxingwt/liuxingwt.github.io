@@ -1,14 +1,14 @@
-## Introduction
-&emsp; I'm an engineer at Mininglamp Academy of Science, Beijing. My main interests are Computer Vision(including Face Recognition, Self-Supervised Learning, Generative Adversarial Networks and so on).  
+## Xing Liu(刘星)
+&emsp; I'm an engineer at Academy of Science, Mininglamp Technology, Beijing. My research interests are in Computer Vision and Machine Learning. Before that, I studied the realtionship and varying tendece of runoff and sediment tranportation in the Yellow River, China for three years. 
 
-**Google scholar profile:** &emsp; [Xing Liu](https://scholar.google.com/citations?user=hR5PUJ0AAAAJ)  
-**Github homepage:** &emsp; [liuxingwt](https://github.com/liuxingwt)  
-**Email:** &emsp; liuxing9406@163.com; liuxing16@tsinghua.org.cn  
+**google scholar :** &emsp; &nbsp; [Xing Liu](https://scholar.google.com/citations?user=hR5PUJ0AAAAJ)  
+**github homepage:** &nbsp; [liuxingwt](https://github.com/liuxingwt)  
+**email adress :** &emsp; &emsp; liuxing9406@163.com; &nbsp; liuxing16@tsinghua.org.cn  
 
 ## Education & Experience
-+ **2011.09-2015.07** &emsp;  Bachelor's Degree, School of Water Resource and Hydropower Engineering, Wuhan University.  
-+ **2016.09-2019.07** &emsp;  Master's Degree, Department of Hydroulic Engineering, Tsinghua University.(advisor: [Mengzhen Xu](http://www.civil.tsinghua.edu.cn/he/essay/342/883.html))
-+ **2019.07-now**   &emsp;   &emsp;   Engineer, Mininlamp Technology, Academy of Science.
++ **2011.09-2015.07** &emsp;  Bachelor's Degree, School of Water Resource and Hydropower Engineering, Wuhan University, Wuhan, China.
++ **2016.09-2019.07** &emsp;  Master's Degree, Department of Hydroulic Engineering, Tsinghua University. Beijing, China. (advisor: [Mengzhen Xu](http://www.civil.tsinghua.edu.cn/he/essay/342/883.html))
++ **2019.07-now**   &emsp;   &emsp;   Engineer, Mininlamp Technology, Academy of Science, Beijing, China.
 
 ## Research Interest
 + Face Recogition(face detection, face landmark detection, face anti-spoofing);
