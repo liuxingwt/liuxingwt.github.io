@@ -23,14 +23,14 @@ AAAI Conference on Artificial Intelligence(**AAAI**), 2022, under review.
 [[paper]](https://arxiv.org/abs/2104.06148), code
 
 + <font face="微软雅黑">3D High-Fidelity Mask Face Presentation Attack Detection Challenge.</font>  
-Ajian Liu, Chenxu Zhao, Zitong Yu, Anyang Su, **Xing Liu**, Zijian Kong, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Guodong Guo
-International Conference on Computer Vision(**ICCV**) workshop, 2021.  
-[[paper]](https://arxiv.org/abs/2108.06968), code
+<font size=3>Ajian Liu, Chenxu Zhao, Zitong Yu, Anyang Su, **Xing Liu**, Zijian Kong, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Guodong Guo</font>  
+International Conference on Computer Vision(**ICCV**) workshop, 2021.    
+[[paper]](https://arxiv.org/abs/2108.06968), code  
 
 + <font face="微软雅黑">Temporal variations of runoff and sediment load in the upper Yellow River, China.</font>  
-Shimin Tian, Mengzhen Xu, Enhui Jiang, Guanghui Wang, Hongchang Hu, **Xing Liu**
+Shimin Tian, Mengzhen Xu, Enhui Jiang, Guanghui Wang, Hongchang Hu, **Xing Liu**  
 Journal of Hydrology, 2019.  
-[[paper]](https://www.sciencedirect.com/science/article/am/pii/S0022169418307959)  
+[[paper]](https://www.sciencedirect.com/science/article/am/pii/S0022169418307959)    
 
 ## Honors & Awards
 + 2017.12  Outstanding Second-class Scholarship, Tsinghua University.
