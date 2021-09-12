@@ -1,14 +1,14 @@
-## Xing Liu's homapage(刘 星)
-&emsp; I'm an engineer at Academy of Science, Mininglamp Technology, Beijing. My research interests are in Computer Vision and Machine Learning. Before that, I studied the realtionship and varying tendece of runoff and sediment tranportation in the Yellow River, China for three years. 
+## Xing Liu 刘星
+&emsp; I'm an engineer at Academy of Science, Mininglamp Technology, Beijing. My research interests are in Computer Vision and Machine Learning. Before that, I studied the realtionship and variation tendency of runoff and sediment tranportation in the Yellow River, China. 
 
 **google scholar :** &emsp; &nbsp; [Xing Liu](https://scholar.google.com/citations?user=hR5PUJ0AAAAJ)  
 **github homepage:** &nbsp; [liuxingwt](https://github.com/liuxingwt)  
 **email adress :** &emsp; &emsp; liuxing9406@163.com; &nbsp; liuxing16@tsinghua.org.cn  
 
 ## Education & Experience
-+ **2011.09-2015.07** &emsp;  Bachelor's Degree, School of Water Resource and Hydropower Engineering, Wuhan University, Wuhan, China.
++ **2019.07-now**   &emsp;   &emsp;   Engineer, Academy of Science, Mininlamp Technology, Beijing, China.
 + **2016.09-2019.07** &emsp;  Master's Degree, Department of Hydroulic Engineering, Tsinghua University. Beijing, China. (advisor: [Mengzhen Xu](http://www.civil.tsinghua.edu.cn/he/essay/342/883.html))
-+ **2019.07-now**   &emsp;   &emsp;   Engineer, Mininlamp Technology, Academy of Science, Beijing, China.
++ **2011.09-2015.07** &emsp;  Bachelor's Degree, School of Water Resource and Hydropower Engineering, Wuhan University, Wuhan, China.
 
 ## Research Interest
 + Face Recogition(face detection, face landmark detection, face anti-spoofing);
@@ -23,7 +23,7 @@ AAAI Conference on Artificial Intelligence(AAAI), 2022, under review.
 [[paper]](https://arxiv.org/abs/2104.06148), code
 
 + <font face="微软雅黑">3D High-Fidelity Mask Face Presentation Attack Detection Challenge.</font>  
-Ajian Liu, Chenxu Zhao, Zitong Yu, Anyang Su, **Xing Liu**, Zijian Kong, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Guodong Guo
+Ajian Liu, Chenxu Zhao, Zitong Yu, Anyang Su, **Xing Liu**, Zijian Kong, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Guodong Guo  
 International Conference on Computer Vision(ICCV) workshop, 2021.    
 [[paper]](https://arxiv.org/abs/2108.06968), code  
 
