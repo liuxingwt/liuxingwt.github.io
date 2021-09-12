@@ -3,7 +3,7 @@
 
 **google scholar :** &emsp; &nbsp; [Xing Liu](https://scholar.google.com/citations?user=hR5PUJ0AAAAJ)  
 **github homepage:** &nbsp; [liuxingwt](https://github.com/liuxingwt)  
-**email adress :** &emsp; &emsp; liuxing9406@163.com; &nbsp; liuxing16@tsinghua.org.cn  
+**email address :** &emsp; &emsp; liuxing9406@163.com; &nbsp; liuxing16@tsinghua.org.cn  
 
 ## Education & Experience
 + **2019.07-now**   &emsp;   &emsp;   Engineer, Academy of Science, Mininlamp Technology, Beijing, China.
