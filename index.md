@@ -11,9 +11,9 @@
 + **2011.09-2015.07** &emsp;  Bachelor's Degree, School of Water Resource and Hydropower Engineering, Wuhan University, Wuhan, China.
 
 ## Research Interests
-+ Face Recogition(face detection, face landmark detection, face anti-spoofing);
++ Face Recognition(face detection, face landmark detection, face anti-spoofing);
 + Self-Supervised Learning(MoCo, SimSiam, BYOL);
-+ Vision Transformer(Vit, DeiT, Swin);
++ Vision Transformer(ViT, DeiT, Swin);
 + Generative Adversarial Network(StyleGAN, StyleCLIP, Image Editing)
 
 ## Publications
