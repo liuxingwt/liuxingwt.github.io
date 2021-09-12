@@ -1,11 +1,11 @@
-## liuxing's personal website
+## Introduction
+I'm an engineerer at Mininglamp Academy of Science, Beijing. My main interests are Computer Vision(including Face Recognition, Self-Supervised Learning, Generative Adversarial Networks and so on).
 
-You can use the [editor on GitHub](https://github.com/liuxingwt/liuxingwt.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Experience
-
++ 2011.09-2015.07  Wuhan University, School of Water Resource and Hydropower Engineering.  
++ 2016.09-2019.07  Tsinghua University, Department of Hydroulic Engineering.(Advisor: Mengzhen Xu)
++ 2019.07-Now      Mininlamp Technology, Academy of Science.
 
 ### Publications
 
