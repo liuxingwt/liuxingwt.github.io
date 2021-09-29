@@ -8,7 +8,7 @@
 **email address :** &emsp; &nbsp; liuxing9406@163.com; &nbsp; liuxing16@tsinghua.org.cn  
 
 ## Education & Experience
-+ **2019.07-now**   &emsp;   &emsp;   Engineer, Mininglamp Academy of Sciences, Mininlamp Technology, Beijing, China.
++ **2019.07-now**   &emsp;   &emsp;   Engineer, Mininglamp Academy of Sciences, Mininglamp Technology, Beijing, China.
 + **2016.09-2019.07** &emsp;  Master's Degree, Department of Hydraulic Engineering, Tsinghua University, Beijing, China. (advisor: [Mengzhen Xu](http://www.civil.tsinghua.edu.cn/he/essay/342/883.html))
 + **2011.09-2015.07** &emsp;  Bachelor's Degree, School of Water Resource and Hydropower Engineering, Wuhan University, Wuhan, China.
 
