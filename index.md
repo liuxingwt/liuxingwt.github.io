@@ -37,7 +37,7 @@ International Conference on Computer Vision(ICCV) workshop, 2021.
 
 + <font face="微软雅黑">Temporal variations of runoff and sediment load in the upper Yellow River, China.</font>  
 Shimin Tian, Mengzhen Xu, Enhui Jiang, Guanghui Wang, Hongchang Hu, **Xing Liu**  
-Journal of Hydrology, 2019.  
+Journal of Hydrology(SCI Q1), 2019.  
 [[paper]](https://www.sciencedirect.com/science/article/am/pii/S0022169418307959)    
 
 ## Honors & Awards
