@@ -27,12 +27,12 @@ Ajian Liu, Chenxu Zhao, Zitong Yu, Jun Wan, Anyang Su, **Xing Liu**, Zichang Tan
 + <font face="微软雅黑">Quantifying the impact of climate change and anthropogenic activities on runoff and
 sediment load reduction in a typical Loess Plateau watershed.</font>  
 Zijing Wang, Mengzhen Xu, **Xing Liu**, Durgesh Kumar Singh, Xudong Fu    
-Journal of Hydrology: Regional Studies(SCI Q2), 2021.   
-[paper]
+Journal of Hydrology: Regional Studies(SCI Q2), 2022.02.   
+[paper](https://www.sciencedirect.com/science/article/pii/S2214581822000052)
  
 + <font face="微软雅黑">3D High-Fidelity Mask Face Presentation Attack Detection Challenge.</font>  
 Ajian Liu, Chenxu Zhao, Zitong Yu, Anyang Su, **Xing Liu**, Zijian Kong, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Guodong Guo  
-International Conference on Computer Vision(ICCV) workshop, 2021.    
+International Conference on Computer Vision(ICCV) workshop, 2021.08.    
 [[paper]](https://arxiv.org/abs/2108.06968), code  
 
 + <font face="微软雅黑">Temporal variations of runoff and sediment load in the upper Yellow River, China.</font>  
