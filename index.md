@@ -21,23 +21,23 @@
 ## Publications
 + <font face="微软雅黑">Contrastive Context-Aware Learning for 3D High-Fidelity Mask Face Presentation Attack Detection.</font>  
 Ajian Liu, Chenxu Zhao, Zitong Yu, Jun Wan, Anyang Su, **Xing Liu**, Zichang Tan, Sergio Escalera, Junliang Xing, Yanyan Liang, Guodong Guo, Zhen Lei, Stan Z Li, Du Zhang  
-2022, under review.  
+2022.05, TIFS(IEEE Transactions on Information Forensics & Security, SCI Q1).  
 [[paper]](https://arxiv.org/abs/2104.06148), code
 
 + <font face="微软雅黑">Quantifying the impact of climate change and anthropogenic activities on runoff and
 sediment load reduction in a typical Loess Plateau watershed.</font>  
 Zijing Wang, Mengzhen Xu, **Xing Liu**, Durgesh Kumar Singh, Xudong Fu    
-Journal of Hydrology: Regional Studies(SCI Q2), 2022.   
+2022, Journal of Hydrology: Regional Studies(SCI Q2).   
 [[paper]](https://www.sciencedirect.com/science/article/pii/S2214581822000052)
  
 + <font face="微软雅黑">3D High-Fidelity Mask Face Presentation Attack Detection Challenge.</font>  
 Ajian Liu, Chenxu Zhao, Zitong Yu, Anyang Su, **Xing Liu**, Zijian Kong, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Guodong Guo  
-International Conference on Computer Vision(ICCV) workshop, 2021.    
+2021, International Conference on Computer Vision(ICCV) workshop.    
 [[paper]](https://arxiv.org/abs/2108.06968), code  
 
 + <font face="微软雅黑">Temporal variations of runoff and sediment load in the upper Yellow River, China.</font>  
 Shimin Tian, Mengzhen Xu, Enhui Jiang, Guanghui Wang, Hongchang Hu, **Xing Liu**  
-Journal of Hydrology(SCI Q1), 2019.  
+2019, Journal of Hydrology(SCI Q1).  
 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0022169418307959)    
 
 ## Honors & Awards
