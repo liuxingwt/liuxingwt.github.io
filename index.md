@@ -8,7 +8,7 @@
 **email address :** &emsp; &nbsp; liuxing9406@163.com; &nbsp; liuxing9406@gmail.com  
 
 ## Education & Experience
-+ **2022.07-now**   &emsp;   &emsp;  Engineer, Zelos Tech, Beijing, China.
++ **2022.07-now**   &emsp;   &emsp;  Engineer, [Zelos Tech](https://zelostech.com.cn/), Beijing, China.
 + **2019.07-2022.06**   &emsp; Engineer, [Mininglamp Academy of Sciences](http://mas.mininglamp.com/), [Mininglamp Technology](https://www.mininglamp.com/), Beijing, China. 
 + **2016.09-2019.07** &emsp;  Master's Degree, Department of Hydraulic Engineering, Tsinghua University, Beijing, China. (advisor: [Mengzhen Xu](http://www.civil.tsinghua.edu.cn/he/essay/342/883.html))
 + **2011.09-2015.07** &emsp;  Bachelor's Degree, School of Water Resource and Hydropower Engineering, Wuhan University, Wuhan, China.
@@ -18,11 +18,18 @@
 + Self-Supervised Learning(MoCo, SimSiam, BYOL)
 + Vision Transformer(ViT, DeiT, Swin)
 + Generative Adversarial Network(StyleGAN, StyleCLIP, Image Editing)
++ 3D Object Detection
++ Point Cloud Segmentation
 
 ## Publications
++ <font face="微软雅黑">CG-FAS: Cross-label Generative Augmentation for Face Anti-Spoofing.</font>  
+**Xing Liu**, Anyang Su, Minghui Wu, Zitong Yu, Kangle Wu, Da An, Jie Hao, Mengzhen Xu, Chenxu Zhao, Zhen Lei  
+2024.06, IJCV(International Journal of Computer Vision, SCI Q1).  
+[[paper]](https://link.springer.com/article/10.1007/s11263-024-02132-5), [[code]](https://github.com/liuxingwt/CG-FAS)
+
 + <font face="微软雅黑">Contrastive Context-Aware Learning for 3D High-Fidelity Mask Face Presentation Attack Detection.</font>  
 Ajian Liu, Chenxu Zhao, Zitong Yu, Jun Wan, Anyang Su, **Xing Liu**, Zichang Tan, Sergio Escalera, Junliang Xing, Yanyan Liang, Guodong Guo, Zhen Lei, Stan Z Li, Du Zhang  
-2022.05, TIFS(IEEE Transactions on Information Forensics & Security, SCI Q1).  
+2022, TIFS(IEEE Transactions on Information Forensics & Security, SCI Q1).  
 [[paper]](https://arxiv.org/abs/2104.06148), code
 
 + <font face="微软雅黑">Quantifying the impact of climate change and anthropogenic activities on runoff and
